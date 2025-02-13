@@ -10,6 +10,8 @@ How to use:
 
 Bash
     Run This Command
+
+    
                  ( python sql_scanner.py "http://example.com/vulnerable_page.php" -p id )
  
 * Replace "http://example.com/vulnerable_page.php" with the target URL and id with the parameter you want to test.
